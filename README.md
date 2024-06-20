@@ -3,16 +3,16 @@
 
 ## Overview
 
-CosmoChat UI is the frontend application that enables users to engage in chat sessions with an AI chatbot powered by OpenAI's language model. The primary objective is to offer a seamless platform for users to interact with the chatbot, ask questions, and receive responses naturally. It incorporates features such as activity tracking, session ending, and session management.
+CosmoChat UI is the frontend application that enables users to engage in chat sessions with an AI chatbot powered by OpenAI's language model. The primary objective is to offer a seamless platform for users to interact with the chatbot, ask questions, and receive responses naturally. 
 
 ![CosmoChat UI](https://ai.radicalai.app/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fradicalx-68127.appspot.com%2Fo%2FCosmoChat%252FCosmo%2520Chat.png%3Falt%3Dmedia%26token%3D0b05e20c-557b-48cf-99c9-cade4b6865ff&w=1920&q=75)
 
 ## Technologies and Tools Used
 
 - React.js
-- Material UI
+- Vite
 - Axios
-- OpenAI
+- OpenAI API
 
 ## Available Scripts
 
