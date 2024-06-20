@@ -34,7 +34,7 @@ To set up CosmoChatUI, follow these steps:
 
 1. **Clone the repository to your local machine:**
    ```
-   git clone https://github.com/Viraj5903/CosmoChatUI.git
+   git clone https://github.com...........
    ```
 
 2. **Ensure you have Node.js and npm installed:**
@@ -50,21 +50,13 @@ To set up CosmoChatUI, follow these steps:
    npm install
    ```
 
-5. **Add your OpenAI API key:**
-   - Get your OpenAI API key from OpenAI
-   - Create a `.env` file in the root directory of the project.
-   - Add the following line to the `.env` file, replacing `{YOUR_API_KEY}` with your actual API key:
-     ```
-     REACT_APP_OPENAI_API_KEY={YOUR_API_KEY}
-     ```
-
-6. **Run Server:**
+5. **Run Server:**
    To run the server that stores chat sessions inside the `data/db.json` file in JSON format, run:
    ```
    node ./server.js
    ```
 
-7. **Start React Application:**
+6. **Start React Application:**
    To start the React application, run:
    ```
    npm start
